@@ -15,14 +15,14 @@ O projeto foi criado com o objetivo de ajudar as pessoas com sugestões de ativi
 
 ## Bibliotecas
 
-    Node.js, é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente (frontend) para os servidores.
+**Node.js**, é um interpretador de JavaScript assíncrono com código aberto orientado a eventos, criado por Ryan Dahl em 2009, focado em migrar a programação do Javascript do cliente (frontend) para os servidores.
 
 ## Dependências
 
-    Express
-    Nodemon
-    Nunjucks
-    Sqlite3
+* Express
+* Nodemon
+* Nunjucks
+* Sqlite3
 
 ## Como usar o projeto
 
