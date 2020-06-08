@@ -9,9 +9,9 @@ O projeto foi criado com o objetivo de ajudar as pessoas com sugestões de ativi
 
 ## No projeto foram utilizadas as seguintes linguagens:
 
-    JavaScript
-    HTML
-    CSS
+* JavaScript
+* HTML
+* CSS
 
 ## Bibliotecas
 
