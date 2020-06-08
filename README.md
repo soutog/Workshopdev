@@ -1,7 +1,7 @@
 ### WorkshopDev ( Casa criativa )
 
-    Realização: Rocketseat rocket
-    Instrutor: Mayk Brito
+-*Realização*: Rocketseat rocket
+-*Instrutor*: Mayk Brito
 
 Sobre
 
