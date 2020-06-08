@@ -5,8 +5,7 @@
 
 ## Sobre
 
-O projeto foi criado com o objetivo de ajudar as pessoas com sugestões de atividades que podem ser realizadas durante o período de quarentena no Brasil.
-Linguagens utilizadas
+O projeto foi criado com o objetivo de ajudar as pessoas com sugestões de atividades que podem ser realizadas durante o período de quarentena no Brasil que ocorreu no ano de 2020.
 
 ## No projeto foram utilizadas as seguintes linguagens:
 
