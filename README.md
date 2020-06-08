@@ -26,7 +26,7 @@ O projeto foi criado com o objetivo de ajudar as pessoas com sugestões de ativi
 
 ## Como usar o projeto
 
-Na pasta raiz do projeto digite npm install para instalar todas as dependências necessárias. Em seguida digite npm run dev para iniciar o projeto, depois abra seu navegador na seguinte URL localhost:3000e bons testes.
+Na pasta raiz do projeto digite `npm install` para instalar todas as dependências necessárias. Em seguida digite npm run dev para iniciar o projeto, depois abra seu navegador na seguinte URL localhost:3000e bons testes.
 
 ## Créditos
 
