@@ -15,3 +15,30 @@ function onOff() {
             .toggle("addScroll")
 }
 
+function checkFields(event){
+
+    const valuesToCheck = [
+        "title", 
+        "category", 
+        "image", 
+        "description", 
+        "link"
+    ]
+    
+    const isEmpty = valuesToCheck.find(function(value){
+
+        const checkIfIsString = typeof event.target[value].value === "string";
+        const checkIfIsEmpyt = !event.target[value].value.trim();
+
+        if(checkIfIsString && checkIfIsEmpyt){
+            return true
+        }
+    })
+
+
+    if(isEmpty){
+        event.preventDefault()
+        alert("Por favor, preencha todos os campos!")
+    }
+
+}
